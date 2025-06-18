@@ -22,7 +22,7 @@ HTTP API для управления длительными I/O bound задач
 4. Запустите сервер:
 
 ```bash
-go run main.go
+go run cmd/adpp/main.go
 ```
 ## docker
 Сборка докер файла
